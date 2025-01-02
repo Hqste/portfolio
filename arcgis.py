@@ -52,6 +52,3 @@ for item in all_items:
         except Exception as e:
             print(f"Erreur lors du téléchargement de {item.title} : {e}")
 
-item_1 = all_items[0]
-item_1.title
-
